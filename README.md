@@ -1,2 +1,1 @@
-# gmtk-gamejam
-jam
+#this is a gamejam project
